@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/Operatorler/bin/Debug/net5.0/Operatorler.deps.json
+/Users/hakkiayman/Desktop/Operatorler/bin/Debug/net5.0/Operatorler.runtimeconfig.json
+/Users/hakkiayman/Desktop/Operatorler/bin/Debug/net5.0/Operatorler.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/Operatorler/bin/Debug/net5.0/Operatorler.dll
+/Users/hakkiayman/Desktop/Operatorler/bin/Debug/net5.0/ref/Operatorler.dll
+/Users/hakkiayman/Desktop/Operatorler/bin/Debug/net5.0/Operatorler.pdb
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.dll
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/ref/Operatorler.dll
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.pdb
+/Users/hakkiayman/Desktop/Operatorler/obj/Debug/net5.0/Operatorler.genruntimeconfig.cache
